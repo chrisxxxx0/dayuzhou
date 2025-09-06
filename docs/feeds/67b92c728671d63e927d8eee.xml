@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/67b92c728671d63e927d8eee</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:38:16 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/67b92c728671d63e927d8eee.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 01 Sep 2025 21:02:55 GMT</pubDate>
     <ttl>3600</ttl>
@@ -638,7 +638,11 @@ Lessons from Development of the Indonesian Economy - Association for Asian Studi
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>铜镜</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

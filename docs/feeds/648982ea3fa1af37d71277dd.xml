@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/648982ea3fa1af37d71277dd</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:47:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:40:53 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/648982ea3fa1af37d71277dd.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 25 Aug 2025 23:30:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -695,7 +695,11 @@ Email：109030424@qq.com
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>花样更年华</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

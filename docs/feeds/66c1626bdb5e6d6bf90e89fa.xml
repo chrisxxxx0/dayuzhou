@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66c1626bdb5e6d6bf90e89fa</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:41:01 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66c1626bdb5e6d6bf90e89fa.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 01 Sep 2025 14:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -662,7 +662,11 @@ shift up工作室正在开发剑星中
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>3T电波</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

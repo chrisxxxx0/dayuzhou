@@ -14,7 +14,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/61dd662fa902510be9c507d6</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:37:47 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/61dd662fa902510be9c507d6.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 02 Jun 2025 22:30:01 GMT</pubDate>
     <ttl>3600</ttl>
@@ -438,7 +438,11 @@ Rita 和阿寻，在原产地走访了 10 天，揭开黑茶江湖的爱恨情�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>许多偏见</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

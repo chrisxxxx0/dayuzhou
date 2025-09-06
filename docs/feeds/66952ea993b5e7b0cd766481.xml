@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66952ea993b5e7b0cd766481</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:40:25 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66952ea993b5e7b0cd766481.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 13 Jul 2025 16:15:18 GMT</pubDate>
     <ttl>3600</ttl>
@@ -373,7 +373,11 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>城市不知道CitiesKnowAll</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

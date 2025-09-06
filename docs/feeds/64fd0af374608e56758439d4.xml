@@ -15,7 +15,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/64fd0af374608e56758439d4</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:35:39 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/64fd0af374608e56758439d4.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 25 Aug 2025 08:55:12 GMT</pubDate>
     <ttl>3600</ttl>
@@ -801,7 +801,11 @@ vol.12 告别10年金融职场，她的人生在燕郊开挂了！【湘谊返�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>深聊投资人</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

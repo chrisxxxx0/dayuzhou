@@ -11,7 +11,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/670a4b51db2cf82757ac1df6</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:36:50 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/670a4b51db2cf82757ac1df6.xml" rel="self" type="application/rss+xml" />
     <pubDate>Fri, 05 Sep 2025 10:46:07 GMT</pubDate>
     <ttl>3600</ttl>
@@ -261,7 +261,11 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>足球益见</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

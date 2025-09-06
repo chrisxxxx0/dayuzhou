@@ -12,7 +12,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/671738bd0d2f24f289ea79f8</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:37:58 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/671738bd0d2f24f289ea79f8.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 04 Aug 2025 14:35:34 GMT</pubDate>
     <ttl>3600</ttl>
@@ -308,7 +308,11 @@ P.S.: 基于忠于原著、完整呈现的原则，这期内容或将成为咪�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>寒冬书舍</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

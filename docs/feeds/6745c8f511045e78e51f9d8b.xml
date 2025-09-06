@@ -15,7 +15,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/6745c8f511045e78e51f9d8b</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:37:32 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/6745c8f511045e78e51f9d8b.xml" rel="self" type="application/rss+xml" />
     <pubDate>Tue, 02 Sep 2025 16:26:03 GMT</pubDate>
     <ttl>3600</ttl>
@@ -547,7 +547,11 @@ doctor
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>没病聊两句</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

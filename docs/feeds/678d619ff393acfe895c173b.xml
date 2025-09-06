@@ -18,7 +18,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/678d619ff393acfe895c173b</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:38:08 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/678d619ff393acfe895c173b.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 01 Sep 2025 16:31:34 GMT</pubDate>
     <ttl>3600</ttl>
@@ -558,7 +558,11 @@ Overview 时间戳⌚️
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>社会学一刻</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

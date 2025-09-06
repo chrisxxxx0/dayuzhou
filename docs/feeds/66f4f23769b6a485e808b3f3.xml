@@ -27,7 +27,7 @@ Tracy：话超多分享欲超强的95后美妆博主，一位拥有多重生活�
       <link>https://www.xiaoyuzhoufm.com/podcast/66f4f23769b6a485e808b3f3</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:36:35 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66f4f23769b6a485e808b3f3.xml" rel="self" type="application/rss+xml" />
     <pubDate>Tue, 26 Aug 2025 15:01:37 GMT</pubDate>
     <ttl>3600</ttl>
@@ -627,7 +627,11 @@ PS：本期正片内容开始之前，有一则关于「HiGirl高能女孩」读
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>高能女孩HiGirl</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

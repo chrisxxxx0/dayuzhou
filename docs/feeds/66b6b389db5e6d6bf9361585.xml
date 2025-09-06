@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66b6b389db5e6d6bf9361585</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:37:52 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66b6b389db5e6d6bf9361585.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 01 Sep 2025 14:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -94,7 +94,11 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>云也退的《作家酒馆》</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

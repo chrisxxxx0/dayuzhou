@@ -13,7 +13,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/68352f683161d950a4d51d4b</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:35:06 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/68352f683161d950a4d51d4b.xml" rel="self" type="application/rss+xml" />
     <pubDate>Fri, 15 Aug 2025 16:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -309,7 +309,11 @@ IT男收女嘉宾简历比公司招聘还严格， 还要问你SAT 分数
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>九分没有梗</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

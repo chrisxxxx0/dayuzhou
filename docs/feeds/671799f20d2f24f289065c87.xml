@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/671799f20d2f24f289065c87</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:42:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:36:16 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/671799f20d2f24f289065c87.xml" rel="self" type="application/rss+xml" />
     <pubDate>Tue, 18 Mar 2025 02:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -312,7 +312,11 @@ Part4 对未来的期望
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>尔边疯</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

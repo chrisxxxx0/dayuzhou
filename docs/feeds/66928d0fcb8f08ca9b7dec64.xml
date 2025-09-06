@@ -34,7 +34,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66928d0fcb8f08ca9b7dec64</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:35:28 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66928d0fcb8f08ca9b7dec64.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 01 Sep 2025 16:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -766,7 +766,11 @@ Linda
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>照镜子</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

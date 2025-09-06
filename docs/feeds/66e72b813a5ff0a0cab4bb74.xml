@@ -14,7 +14,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66e72b813a5ff0a0cab4bb74</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:36:41 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66e72b813a5ff0a0cab4bb74.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 31 Aug 2025 22:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -423,7 +423,11 @@ Valerio Castello: Hades劫持拐走Persephone（The Rape of Persephone）
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>艺心雕龙</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

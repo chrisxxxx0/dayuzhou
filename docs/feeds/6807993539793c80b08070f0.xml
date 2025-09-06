@@ -24,7 +24,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/6807993539793c80b08070f0</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:47:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:40:10 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/6807993539793c80b08070f0.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 31 Aug 2025 13:26:20 GMT</pubDate>
     <ttl>3600</ttl>
@@ -249,7 +249,11 @@ Highlights
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>可能性褶皱 Possibility</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

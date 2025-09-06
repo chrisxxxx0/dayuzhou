@@ -11,7 +11,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/681c64ed32473835b6407ec4</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:39 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/681c64ed32473835b6407ec4.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 18 Aug 2025 00:44:18 GMT</pubDate>
     <ttl>3600</ttl>
@@ -423,7 +423,11 @@ Ryan（曾在某省体制内核心部门工作，现于外企就职）
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>横切面</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

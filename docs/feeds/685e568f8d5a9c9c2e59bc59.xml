@@ -14,7 +14,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/685e568f8d5a9c9c2e59bc59</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:57 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/685e568f8d5a9c9c2e59bc59.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -370,7 +370,11 @@ l 李紫薇｜「富有洞察」主持人
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>有富同享</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

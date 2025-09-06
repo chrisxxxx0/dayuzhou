@@ -11,7 +11,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/677146e215a5fd520e7873f8</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:44:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:38:21 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/677146e215a5fd520e7873f8.xml" rel="self" type="application/rss+xml" />
     <pubDate>Wed, 06 Aug 2025 00:34:03 GMT</pubDate>
     <ttl>3600</ttl>
@@ -401,7 +401,11 @@ Part4 挚友趣事
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>消费新时代</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

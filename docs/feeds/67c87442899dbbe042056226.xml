@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/67c87442899dbbe042056226</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:06 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/67c87442899dbbe042056226.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 31 Aug 2025 16:39:12 GMT</pubDate>
     <ttl>3600</ttl>
@@ -319,7 +319,11 @@ JS017 - 英美“贸易协定”签署，面子里子谁赢？中美会谈展望
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>杰叔看世界</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

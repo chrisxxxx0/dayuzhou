@@ -12,7 +12,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/66b0ffd67349f7a557f86824</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:38:40 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/66b0ffd67349f7a557f86824.xml" rel="self" type="application/rss+xml" />
     <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -384,7 +384,11 @@ Shownotes：
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>海货三兄弟</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

@@ -17,7 +17,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/65ded94bb6c9256aee604b12</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:41:11 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/65ded94bb6c9256aee604b12.xml" rel="self" type="application/rss+xml" />
     <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
     <ttl>3600</ttl>
@@ -661,7 +661,11 @@ ps.在本期节目评论区留言「你的暗夜时刻」，我们将选取1位�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>进馆说</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

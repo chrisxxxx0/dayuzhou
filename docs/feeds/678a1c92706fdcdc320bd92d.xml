@@ -13,7 +13,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/678a1c92706fdcdc320bd92d</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:38:24 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/678a1c92706fdcdc320bd92d.xml" rel="self" type="application/rss+xml" />
     <pubDate>Fri, 01 Aug 2025 15:27:48 GMT</pubDate>
     <ttl>3600</ttl>
@@ -383,7 +383,11 @@ BGM： Anno 1800 - Flickering lights</description>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>狗不扯蛋</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

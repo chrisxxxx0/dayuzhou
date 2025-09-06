@@ -14,7 +14,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/677220a950d813b3fce65aba</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:14 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/677220a950d813b3fce65aba.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 30 Jun 2025 21:59:57 GMT</pubDate>
     <ttl>3600</ttl>
@@ -434,7 +434,11 @@ Gérard Darmon-And The Winner Is
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>医言不合</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

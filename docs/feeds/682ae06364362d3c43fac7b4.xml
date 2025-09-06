@@ -13,7 +13,7 @@ ps：节目嘉宾观点呈现不代表九派新闻立场</description>
       <link>https://www.xiaoyuzhoufm.com/podcast/682ae06364362d3c43fac7b4</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:34:39 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/682ae06364362d3c43fac7b4.xml" rel="self" type="application/rss+xml" />
     <pubDate>Thu, 04 Sep 2025 08:32:47 GMT</pubDate>
     <ttl>3600</ttl>
@@ -729,7 +729,11 @@ part3：议题讨论
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>九派长谈</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

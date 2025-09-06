@@ -16,7 +16,7 @@ ps：节目为纯口播碎碎念，无剪辑，配合小🍠vlog食用更佳～ 
       <link>https://www.xiaoyuzhoufm.com/podcast/63d518a6531dadd2b1ba8d8a</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:40:45 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/63d518a6531dadd2b1ba8d8a.xml" rel="self" type="application/rss+xml" />
     <pubDate>Tue, 02 Sep 2025 15:27:15 GMT</pubDate>
     <ttl>3600</ttl>
@@ -226,7 +226,11 @@ ps：节目为纯口播碎碎念，无剪辑，配合小🍠vlog食用更佳～ 
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>将个烂就</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

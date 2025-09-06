@@ -12,7 +12,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/6818bc0ff94e3398acf96f93</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:34 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/6818bc0ff94e3398acf96f93.xml" rel="self" type="application/rss+xml" />
     <pubDate>Fri, 05 Sep 2025 16:45:33 GMT</pubDate>
     <ttl>3600</ttl>
@@ -490,7 +490,11 @@ D2：早餐烧饵块—禾木面包店、嘉华云饼现烤鲜花饼/火腿饼�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>生活复兴</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

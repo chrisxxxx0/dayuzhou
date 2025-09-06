@@ -11,7 +11,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/67da5868f96be2964ca3f443</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:24 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/67da5868f96be2964ca3f443.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sat, 30 Aug 2025 13:40:16 GMT</pubDate>
     <ttl>3600</ttl>
@@ -322,7 +322,11 @@ Enji-Vogl</description>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>马上电波</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>

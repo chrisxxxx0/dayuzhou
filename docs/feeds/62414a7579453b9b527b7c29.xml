@@ -10,7 +10,7 @@
       <link>https://www.xiaoyuzhoufm.com/podcast/62414a7579453b9b527b7c29</link>
     </image>
     <generator>dayuzhou</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 08:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:34:43 GMT</lastBuildDate>
     <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/62414a7579453b9b527b7c29.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 31 Aug 2025 11:02:15 GMT</pubDate>
     <ttl>3600</ttl>
@@ -152,7 +152,11 @@ WHY FOR 饮料：WHY FOR 旗下酒类内容播客，同时也是一家位于上�
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Leisure">
-      <itunes:category text="Hobbies" />
+      <itunes:category text="Automotive" />
     </itunes:category>
+    <itunes:owner>
+      <itunes:name>WHY FOR 饮料</itunes:name>
+      <itunes:email>xwinng@1t-ml.com</itunes:email>
+    </itunes:owner>
   </channel>
 </rss>
