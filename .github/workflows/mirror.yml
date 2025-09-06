@@ -1,0 +1,13 @@
+      - name: Generate mirrored feed (Apple-ready)
+        env:
+          ORIGIN_FEED_URL: ${{ secrets.ORIGIN_FEED_URL }}
+          PUBLIC_SITE: https://chrisxxxx0.github.io/dayuzhou/
+          OUT_DIR: docs/feeds
+        run: |
+          python -V
+          mkdir -p docs/feeds
+          : > docs/.nojekyll
+          if [ ! -f docs/index.html ]; then
+            echo '<!doctype html><meta charset="utf-8"><title>dayuzhou</title><p>Feeds in ./feeds/</p>' > docs/index.html
+          fi
+          python scripts/mirror_plus.py
