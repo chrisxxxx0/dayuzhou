@@ -5,10 +5,14 @@ from pathlib import Path
 from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 
-PUBLIC_SITE = os.environ["PUBLIC_SITE"].rstrip("/")
+PUBLIC_SITE = os.environ["PUBLIC_SITE"].rstrip("/")        
 OUT_DIR = Path(os.environ.get("OUT_DIR", "docs/feeds"))
+FEEDS_JSON = os.environ["ORIGIN_FEEDS_JSON"]              
+
+OWNER_EMAIL = "xwinng@1t-ml.com"                             
+OWNER_NAME  = os.environ.get("OWNER_NAME", "").strip()      
+
 OUT_DIR.mkdir(parents=True, exist_ok=True)
-FEEDS_JSON = os.environ["ORIGIN_FEEDS_JSON"]  
 
 ns = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -18,7 +22,7 @@ ns = {
 for k, v in ns.items():
     ET.register_namespace(k, v)
 
-UA = {"User-Agent": "GitHubActions-RSSMirror/JSON/1.0"}
+UA = {"User-Agent": "GitHubActions-RSSMirror/JSON/1.1"}
 
 def fetch(url: str, method="GET"):
     req = urllib.request.Request(url, headers=UA, method=method)
@@ -81,7 +85,22 @@ def process_one(origin_url: str, explicit_out_basename: str | None = None):
         ET.SubElement(channel, f"{{{ns['itunes']}}}type").text = "episodic"
     if channel.find("itunes:category", ns) is None:
         c1 = ET.SubElement(channel, f"{{{ns['itunes']}}}category", {"text":"Leisure"})
-        ET.SubElement(c1, f"{{{ns['itunes']}}}category", {"text":"Hobbies"})
+        ET.SubElement(c1, f"{{{ns['itunes']}}}category", {"text":"Automotive"})
+
+    if OWNER_EMAIL:
+        owner = channel.find("itunes:owner", ns)
+        if owner is None:
+            owner = ET.SubElement(channel, f"{{{ns['itunes']}}}owner")
+        name_el = owner.find("itunes:name", ns)
+        if name_el is None:
+            name_el = ET.SubElement(owner, f"{{{ns['itunes']}}}name")
+        if not (name_el.text or "").strip():
+            fallback_name = OWNER_NAME or channel.findtext("itunes:author", default="") or channel.findtext("title", default="")
+            name_el.text = fallback_name
+        email_el = owner.find("itunes:email", ns)
+        if email_el is None:
+            email_el = ET.SubElement(owner, f"{{{ns['itunes']}}}email")
+        email_el.text = OWNER_EMAIL
 
     ensure_text(channel, "lastBuildDate",
                 datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT"))
@@ -132,18 +151,23 @@ def process_one(origin_url: str, explicit_out_basename: str | None = None):
 
     ET.indent(root, space="  ")
     out_path.write_bytes(ET.tostring(root, encoding="utf-8", xml_declaration=True))
-
     hid = hashlib.sha256(origin_url.encode("utf-8")).hexdigest()[:10]
     print(f"Wrote {out_path} for source #{hid}")
 
 def main():
     data = json.loads(FEEDS_JSON)
+
     if isinstance(data, dict):
         for basename, url in data.items():
             process_one(url, explicit_out_basename=str(basename))
     elif isinstance(data, list):
+        seen = set()
         for url in data:
-            process_one(url, explicit_out_basename=None)
+            key = (url or "").strip()
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            process_one(key, explicit_out_basename=None)
     else:
         raise SystemExit("ORIGIN_FEEDS_JSON must be a JSON object or array")
 
