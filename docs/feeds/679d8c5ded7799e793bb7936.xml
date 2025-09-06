@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>AI 前线</title>
+    <description>AI、机器人、芯片的学术前沿与商业竞争，
+新闻分析、学术科普、历史回顾，三位一体。</description>
+    <link>https://www.xiaoyuzhoufm.com/podcast/679d8c5ded7799e793bb7936</link>
+    <image>
+      <url>https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png</url>
+      <title>AI 前线</title>
+      <link>https://www.xiaoyuzhoufm.com/podcast/679d8c5ded7799e793bb7936</link>
+    </image>
+    <generator>dayuzhou</generator>
+    <lastBuildDate>Sat, 06 Sep 2025 08:44:40 GMT</lastBuildDate>
+    <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/679d8c5ded7799e793bb7936.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 02 Jun 2025 03:28:49 GMT</pubDate>
+    <ttl>3600</ttl>
+    <itunes:author>侃博</itunes:author>
+    <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+    <itunes:subtitle>AI、机器人、芯片的学术前沿与商业竞争，
+新闻分析、学术科普、历史回顾，三位一体。</itunes:subtitle>
+    <itunes:summary>AI、机器人、芯片的学术前沿与商业竞争，
+新闻分析、学术科普、历史回顾，三位一体。</itunes:summary>
+    <item>
+      <title>面向制造的 AI3D</title>
+      <description>1. AI3D 的应用场景 00:00
+2. 3D 的表达方式 07:42
+2.1 显性 explicit 08:03
+2.2 隐形 implicit: SDF, Voxel 09:09
+2.3 隐形 implicit: NERF 10:13
+2.4 混搭 hybrid: 3DGS 11:06
+2.5 混搭 hybrid: DMTet 11:59
+2.6 混搭 hybrid: 3-plane, k-plane 12:37
+2.7 组合 compositional 13:18
+3. 从 3D 到 4D 13:47
+3.1 Dynamic 3DGS 13:53
+3.2 4DGS 14:49
+4. 从 Text 到 3D 15:43
+4.1 Transformer + Procedural generation 16:20
+4.2 Diffusion 原理 18:17
+4.3 Stable Diffusion 系统架构 19:42
+5. 3D diffusion 的优化函数 21:03
+5.1 SDS，SJC: DreamFusion 21:43
+5.2 ISM, CSD, VSD, ASD: 噪音注入 23:04
+5.3 SDS + 3DGS 23:40
+6. 结语，面向制造的 AI3D 24:15</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/683d1a3f38dcc57c64183f2f</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/683d1a3f38dcc57c64183f2f</guid>
+      <pubDate>Mon, 02 Jun 2025 03:28:49 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/llwcZLrz8vDFnowF1T76GCOPmuhD.m4a" length="24605003" type="audio/mp4" />
+      <itunes:duration>1521</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FjT98KrThz1mF_lLYwMzjDkWECRh.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>行业专家大模型 Artificial Domain Intelligence</title>
+      <description>1) AGI vs ADI, 行业专家大模型 00:00
+2) Agent 05:35
+2.1 RAG 05:39
+2.2 Deep Research 06:38
+2.3 Self-memory 09:03
+2.4 Multi-agents RL 10:57
+3) 大模型与大算力 12:11
+3.1 Transformer 架构与算力消耗 13:38
+3.2 GPU 内存与硬盘 14:57
+3.3 FlashAttention 17:02
+4) Adapter 19:24
+4.1 Low Rank Adapter (LoRA) 19:51
+4.2 GaLore 21:33
+4.3 K-adapter 23:14
+5) Mixture of Experts 24:14
+5.1 Mistral 24:29
+5.2 Deepseek-V3 26:12
+6) RL for reasoning 28:00
+6.1 RLHF &amp; PPO 28:22
+6.2 GRPO 29:13
+6.3 多轮对话的话术 30:56
+7) 像专家那样说话 33:56
+7.1 Direct Preference Optimization (DPO) 34:32
+7.2 Kahneman-Tversky Optimization (KTO) 36:44
+8) 数据与标注 37:51
+8.1 数据蒸馏 38:29
+8.2 Monto Carlo Tree Search 做推理标注 40:28
+9) GRPO + LoRA 实战 43:02
+9.1 编程和数据 43:17
+9.2 测试 44:50</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67f26aa5f9578163d64f25b9</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67f26aa5f9578163d64f25b9</guid>
+      <pubDate>Sun, 06 Apr 2025 11:55:10 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/ljCzvvYBPan_G_K1tpWOhld64fsb.m4a" length="45462678" type="audio/mp4" />
+      <itunes:duration>2811</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>解密 Unsloth 和 GaLore</title>
+      <description>1. Unsloth 有什么用？ 00:00
+Unsloth 训练行业专家模型 00:12
+Unsloth 的 4 个核心技术 03:40
+1. 
+2. 解密 Flash Attention 06:23
+GPU 硬件架构 06:33
+Kernel fusion 11:02
+Matrix tiling 16:03
+Softmax statistics 18:30
+Recompute for backward pass 19:47
+1. 
+3. 重写 Triton kernels 24:04
+1. 
+4. 优化矩阵链乘法 27:35
+多个矩阵相乘时，计算成本与顺序相关
+1. 
+5. 手工实现 AutoGradient 31:12
+AutoGradient 解决什么问题 32:33
+为什么 Unsloth 要手工实现 AutoGradient，如何手工写 34:02
+1. 
+6. 解密 LoRA 37:54
+什么是矩阵的秩 rank 38:06
+LoRA 牺牲模型精度，换取训练速度 39:06
+LoRA 编程不太难 42:07
+1. 
+7. GaLore 全面超越 LoRA 45:11
+把整个梯度空间拆解为若干子空间 45:24
+GaLore 与 LoRA 哪些相同哪些不同 47:15
+1. 
+8. 用 Llama_factory 实操 Unsloth + GaLore 50:58
+复盘 Unsloth 和 GaLore 的核心原理 50:58
+Llama_factory 设置与运行结果 52:04</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67e55dc18eecdbeb6085d2ae</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67e55dc18eecdbeb6085d2ae</guid>
+      <pubDate>Thu, 27 Mar 2025 14:25:07 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lswf7KGfZZ7Jevk09qN1hfbkf_6k.m4a" length="56878205" type="audio/mp4" />
+      <itunes:duration>3516</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>学习使用 Llama_factory 成为 AI 模型训练专家</title>
+      <description>视频版：https://www.bilibili.com/video/BV1rbXsYyEaz
+1. 前言 00:00
+AI 模型训练，涉及非常多的概念和算法和系统设计，
+学会了 Llama_factory，就成了 AI 模型训练的专家。
+2. 基座模型的选择 01:23
+从 ModelScope 上手工下载部署基座模型，
+https://modelscope.cn/models
+https://huggingface.co/models
+Llama_factory 的模型名称，略有瑕疵，用户要避免误解。
+3. 模型训练的类型 05:32
+Pre-training，SFT，RLHF，DPO，KTO，如何选择模型训练类型？
+我们将单独做一期节目，分享我们的实战经验。
+4. SFT 的训练方式 07:58
+Full, freeze, lora，
+其中普遍使用的是 LoRA，我们先从 LoRA 学起。
+5. 量化和加速设置 08:51
+flash_attention + liger_kernel 可以并用，
+但是 unsloth 不能与它们并用。
+6. 训练参数设置 11:57
+略显草率的 UI 设计，用户要避免迷失，
+通用的参数设置，与训练类型相关的参数设置，与训练类型相关的的补充设置，
+以及训练结果的记录和分析，SwanLab，
+不应该安排在页面同一个框内。
+7. 数据集 16:07
+先手工从 ModelScope 下载数据集，
+下载完成后，然后再启动 Llama_factory，
+哪些数据集，适用于哪些模型的哪些训练方法，需要阅读 Llama_factory 的 github pages，
+https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README.md
+8. 命令行 preview 18:25
+前序 configs，都是为了设置这个命令行中的各个参数，
+能否单独用 Unsloth？当然可以，
+其实所谓单独使用 Unsloth，等同于手工设置命令行。
+9. 训练与体验 19:57
+训练过程，日志，与调优，
+专业的冷门的问题，“请问，鹿角铲是装饰品，还是古代祭祀用的礼器，还是工具？”
+10. 总结 24:32
+学会了 Llama_factory，就成了 AI 模型训练的专家，
+参考文献，
+1. 知乎上的指南，“LLaMA-Factory QuickStart” (https://zhuanlan.zhihu.com/p/695287607)，
+2. Llama_factory 官方指南 (https://llamafactory.readthedocs.io/zh-cn/latest/)，
+3. Llama_factory 论文，“LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models” (https://arxiv.org/abs/2403.13372)。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67dea208dd11f9c8c15ec6d5</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67dea208dd11f9c8c15ec6d5</guid>
+      <pubDate>Sat, 22 Mar 2025 11:46:09 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/liL-uqxsrWcLv18m8j5E52iI-gBl.m4a" length="28074498" type="audio/mp4" />
+      <itunes:duration>1735</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>关于对 Manus 的质疑</title>
+      <description>1. 前言：几个问题 00:00
+国内火国外不火，是炒作吗？
+Manus 是 AGI 吗？
+与 Deepseek 是同等重要的进步吗？
+2. Manus 与 Agent 00:43
+Agent 通过 API 调用其它软件服务，Manus 用鬼手，
+3. Manus 与 AGI 04:34
+AGI 的五个等级，chatbot, reasoner, agent, innovator, orginazor，
+更好用的 Agent，属于第 3 等级的优化，
+Deepseek 是推理者，属于第 2 等级的优化，第 2 等级并不低于第 3 等级，
+国外不火的原因，美国更看重基础研究，
+4. GAIA 测试 11:38
+450 组数据，
+三个等级，“照片中这几位宇航员，哪一位在太空飞行的总时间最长？”
+Huggingface 排行榜上暂时没有 manus，
+5. Manus 的竞品，OpenAI 的 Deep Research 17:00
+Deep Research 只操作浏览器，而 manus 理论上可以操作任何软件，
+Deep Research == re-search == exploratory search，
+6. Manus 的竞品，Anthropic 的 computer use 20:43
+一样：都试图操控电脑上所有软件，
+不一样：Manus 部署在云端，Computer use 部署在个人电脑，
+7. Manus 的竞品，AutoGPT 23:27
+AutoGPT 是 Computer use 的先驱，
+Prompt 工程，
+当年的大模型，做 planning 的质量不太好，
+AutoGPT 每一步的输出格式，难以控制，
+8. Manus 能否部署在本地 27:56
+云端部署的好处，在云端部署电脑软件，更可控，
+云端部署的缺陷，云端能同时服务的客户人数，吞吐量有限，
+发邀请码，不完全是因为搞饥渴营销，而是受制于吞吐量，
+9. 在公司内网部署 Manus 是最优选择 29:42
+个人电脑部署，非常麻烦，
+公司内网部署是最优方案，部署还算方便，私域数据，
+10. Manus 是否将开源 31:41
+接通 Agent 私域数据，
+开源将大大降低数据安全的担忧，有利于市场推广。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67ca68f80766616acd348621</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67ca68f80766616acd348621</guid>
+      <pubDate>Fri, 07 Mar 2025 03:35:34 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lnbwk_BR9QmYXCGdCD8F9NNCrDTH.m4a" length="32062153" type="audio/mp4" />
+      <itunes:duration>1982</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中国的 AI 逆袭战略</title>
+      <description>1. 中国在 AI 领域的逆袭战略 00:00
+2. DS 出现以前，美国设定的 AI 行业格局 02:00
+美国的四大 AI 寡头，
+各国各企业 Agent 接入美国 AI 大模型，
+3. DS 出现以后，全球 AI 将出现平权运动 04:28
+算力平权：欧盟巴黎会议的潜台词，
+数据平权：通过数据蒸馏，间接获得全网数据，
+算法平权：Huggingface 的 SFTtrainer，
+4. DS 出现以后，哪些问题没有改变 08:26
+算力紧张仍然延续，
+程序员仍然紧缺，
+5. DS 出现以后，中国 AI 战略初步成型 11:23
+舆论先行，AI 大模型个人用户大量涌现，
+政府布置作业，各个企业开始做作业，
+成功范例出现，榜样的力量是无穷的，
+6. 企业落地 DS 的产品形态 16:38
+出现各个行业的 AI 行业专家
+7. 把 DS 落地到企业各个环节 18:54
+1）市场营销：AI 咨询 + 媒体内容制作，
+2）售前定制化方案：AI 设计，
+3）销售合同： AI 法务，
+4）供应链：AI 预测 + 区块链
+5）ERP：智慧中台，智能制造，通用的工具箱 + 各个企业 IT 具体部署，
+6）物流：四流合一，合同、发票、转账、仓库出入，
+7）售后安装和维修：图文并茂的一步一步的指导，
+客服只是覆盖了市场咨询营销和售后安装和维修两个环节，
+8. 企业落地 DS 的步骤 29:04
+1）租用公有云火山引擎 + DS，初步体验 RAG，
+2）不改变 DS，外挂的行业 AI 专家模型，
+3）对 DS 做 SFT + RL 再训练，内生的行业 AI 专家模型，
+9. 行业 AI 专家模型的意义 33:17
+行业话语权，一流的企业定标准，
+中国将涌现出一大批 AI 工程师，
+中国人的智力资源，将通过行业 AI 大模型这种产品形态，畅销全球，
+巨大的市场，将促进中国 GPU 芯片研发。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67c295b8bf52a16cd1c4d9c1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67c295b8bf52a16cd1c4d9c1</guid>
+      <pubDate>Sat, 01 Mar 2025 05:19:13 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/loevd7nOXkkeuj-qpqFj7KdonUAa.m4a" length="35460591" type="audio/mp4" />
+      <itunes:duration>2192</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FpwokwTXaWPYlnQ8gV-tDi2WQ5mX.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>用流体力学来生成图像</title>
+      <description>1. 流匹配是扩散模型父节点 00:00
+2. 图像空间的数据分布 01:16
+3. 概率路径如同地壳运动 05:01
+4. 扩散模型就像山峦坍塌成沙漠 06:40
+5. 条件流匹配是矫正流的父节点 09:54
+6. 矫正流是最优传输耦合的父节点 13:45
+7. 展望多模态统一场 16:01
+8. 强化学习能否融入流匹配 17:22
+9. 总结 18:51
+参考文献，
+1. Flow Matching for Generative Modeling
+2. Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67b0d47a05a90dfd0db1fcdb</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67b0d47a05a90dfd0db1fcdb</guid>
+      <pubDate>Sat, 15 Feb 2025 19:11:01 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/llZIJtPrqVsboBjY0Ccvkkt0_xDD.m4a" length="18880152" type="audio/mp4" />
+      <itunes:duration>1167</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>用热力学来生成图像</title>
+      <description>1. Deepseek 用流体力学来生成图像 00:00
+2. 图像空间与数据分布 01:31
+3. 估算图像空间的数据分布 05:34
+4. 增噪过程的步幅控制 07:29
+5. U-Net 之 encoder 09:32
+6. 降噪过程与郎之万动力学 11:41
+7. U-Net 之 decoder 14:12
+8. U-Net 训练过程的损失函数 16:17
+9. 用文本提示词引导图像生成 18:14
+10. 向量量化 VQ 21:06
+11. 总结 23:06
+参考文献：
+1. Denoising Diffusion Probabilistic Models
+2. High-Resolution Image Synthesis with Latent Diffusion Models</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67ab99312faa72d7a8f13a8c</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67ab99312faa72d7a8f13a8c</guid>
+      <pubDate>Tue, 11 Feb 2025 18:47:44 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lpJIg_Ug5ygNZhDoaIM1SAvIpFpl.m4a" length="23311371" type="audio/mp4" />
+      <itunes:duration>1441</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Deepseek的第三次战役：国产AI如何挑战OpenAI？</title>
+      <description>1. Deepseed 的三大战役 00:00
+2. 多模态竞争格局 03:15
+3. 多模态技术现状与缺陷 09:11
+4. 统一场多模态的初步尝试 14:35
+4.1 清华唐杰教授的 CogVLM 22:04
+4.2 Yang LeCun 和谢赛宁教授的 MetaMorph 27:46
+5. Janus-pro 系统架构 30:59
+5.1 Adaptors + Pretained Encoders 31:24
+5.2 AutoRegressive Transformer + Rectified Flow Model 33:48
+6. 模型训练成了炼金术 37:05
+6.1 分成三个阶段来训练 38:58
+6.2 每个阶段的时长的配比 40:41
+6.3 每个阶段不同类型数据的配比 42:26
+7. 训练成本 48:20
+8. 两个先进武器迎战最后的决战 51:12
+8.1 用流体力学来生成图像 52:45
+8.2 当多模态与 MLA 和 MoE 融合 62:48
+9. 总结 66:10
+1. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
+2. JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation
+3. CogVLM: Visual Expert for Pretrained Language Models
+4. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a7b25ed74435e4a3f14241</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a7b25ed74435e4a3f14241</guid>
+      <pubDate>Sat, 08 Feb 2025 19:45:07 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lm8AaKtLGc7v-uXyxmArTN-RDRmO.m4a" length="66219978" type="audio/mp4" />
+      <itunes:duration>4094</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>李飞飞 50 美元的事情是真的吗</title>
+      <description>1. 前言 00:00
+2. 消息来源 00:44
+3. 数据来源 01:36
+3.1 五个公开数据集 02:38
+3.2 自创两个数据集 04:15
+4. 数据处理 05:48
+4.1 筛选 05:59
+4.2 蒸馏 Google Gemini 是误解 06:21
+5. 模型训练 07:29
+5.1 通义千问 Qwen2.5-32B 是模型基座 07:32
+5.2 SFT 训练产生 s1-32B 模型 08:28
+5.3 Budget forcing 09:02
+5.4 成本只有 24 美元 10:02
+6. 伯克利潘博士的尝试 12:54
+6.1 基座也是通义千问，不过模型规模更小，Qwen2.5-3B 13:23
+6.2 针对两个简单的数学专项任务 13:54
+6.3 成本不到 30 美元 14:31
+7. 总结 14:58
+参考文献：
+1. 李飞飞教授的论文：
+arxiv.org
+2. Berkeley 潘博士的项目：
+github.com</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a58442247d51713c1a5602</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a58442247d51713c1a5602</guid>
+      <pubDate>Fri, 07 Feb 2025 04:04:47 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lnLIyQpyWksXGCJvTtlUiQo-KYfA.m4a" length="15544414" type="audio/mp4" />
+      <itunes:duration>961</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Deepseek 或将颠覆性创新 AI 的使用方式</title>
+      <description>1. 前言 00:00
+2. 传统的 AI 使用方式 00:42
+2.1 Agent vs workflow 01:07
+2.2 Agent vs RAG 05:11
+2.3 RAG 功能模块 09:37
+2.4 LangChain、LlamaIndex, AutoGPT 14:54
+3. 来自 Deepseek 的颠覆性创新 23:35
+3.1 Multi-head Latent Attention (MLA） 24:58
+3.2 Mixture of Expert (MoE) 26:49
+3.3 SFT + RL 32:55
+3.4 Janus 37:34
+4. 产品形态 46:23
+4.1 Agent as plugin 46:39
+4.2 Agent as integrator 50:26
+4.3 AI App 52:23
+4.4 AI OS 53:13
+4.5 AI Cloud 60:30
+5. 总结 64:18</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a4c80ed74435e4a3809df1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a4c80ed74435e4a3809df1</guid>
+      <pubDate>Thu, 06 Feb 2025 14:58:17 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/llsN14vOwaOHx63UioTuj7bJR5zM.m4a" length="63838131" type="audio/mp4" />
+      <itunes:duration>3947</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>轻松理解强化学习之 PPO</title>
+      <description>想理解 Deepseek 中的 GROP 等强化学习算法，最好先理解强化学习之 PPO 算法，
+理解 PPO 并不难，只需要先梳理清楚几个概念之间的区别，
+1. Reward vs Value vs Advantage,
+2. Model-free vs model-based，
+3. On-policy vs Off-policy,
+4. Policy-based vs Value-based,
+然后理解 Advantage Actor Critic (A2C) 算法的设计思路，
+1. 构建学生 actor 和导师 critic 两个神经网络，
+2. 学生 actor 神经网络，追求 advantage 的优化，是 policy-based 模型，
+3. 导师 critic 神经网络，追求全局 value 的最优化，是 value-based 模型，
+4. 导师指导学生，从而避免学生过度激进，导致训练崩溃，
+到这时，理解作为 A2C 模型的改进版 PPO，
+以及 Deepseek 在 PPO 基础上，进一步做的三个改进，
+就水到渠成了。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a373ffd74435e4a3482a84</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a373ffd74435e4a3482a84</guid>
+      <pubDate>Wed, 05 Feb 2025 15:14:55 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lkzb4qnVDXxG1-3V7hbkqpGxxHIp.m4a" length="33683310" type="audio/mp4" />
+      <itunes:duration>2082</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Deepseek 如何反围剿</title>
+      <description>树大招风，面对横扫天下的 Deepseek，目前美国发出三招，对 Deepseek 进行围剿，
+1. 来源于美国的黑客组织，对 Deepseek 网站发动攻击，
+2. 马斯克指责 Deepseek 训练模型时，偷偷使用违禁的 H100 GPU卡，
+3. 奥特曼指责 Deepseek 通过蒸馏技术，盗取 OpenAI 的数据。
+面对来势汹汹的围剿，Deepseek 如何反击？</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a2fa05247d51713cb2094f</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a2fa05247d51713cb2094f</guid>
+      <pubDate>Wed, 05 Feb 2025 07:04:55 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lrSjZJMOUAy66X1KoD8Srz2Sr_ip.m4a" length="26136011" type="audio/mp4" />
+      <itunes:duration>1615</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中国企业能否入驻美国本土</title>
+      <description>中美竞争日趋激烈，川普政府为了限制中国产品进入美国市场，不仅对中国加税，而且对墨西哥加拿大也严厉加税。
+中国企业是否可以直接入驻美国本土？哪些企业容易入驻，哪些企业不容易。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a2f980247d51713cb1e7c8</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a2f980247d51713cb1e7c8</guid>
+      <pubDate>Wed, 05 Feb 2025 06:17:11 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/lgtoNSCzF2zqpZ8mLjgwH5e0eJn0.m4a" length="18252731" type="audio/mp4" />
+      <itunes:duration>1128</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>十五分钟讲解 Deepseek 从 R1-zero 到 R1 的再训练</title>
+      <description>昨天花了 15 分钟，讲解 Deepseek R1-zero 的训练过程，
+节目播出后，收到若干听众反馈，其中有听众想了解，如何把 Deepseek 这个通用大模型，进行专项训练，使之与企业的专业知识和内部数据库相结合，成为具有企业特色的专项模型？
+我们这一期花十五分钟时间，先讲解港大马毅教授的新作，“监督微调增强记忆，强化学习举一反三”，
+然后讲解 Deepseek R1 论文的第二部分，如何对 Deepseek R1-zero 进行专项训练，强化专业知识，避免违规言论，从而对 Deepseek R1-zero 再训练，进化成 R1，
+最后讲讲，如何对 Deepseek R1 进行数据蒸馏，套出 Deepseek R1 的优选数据，用于训练小型模型，让小型模型具备大型模型的专业知识和严谨推理的能力。
+之所以暂时没有讲 Agent 和 LoRa 这些传统的做法，是因为感觉到 Deepseek 有可能会颠覆性重构 AI 大模型本身以及下游应用范式，
+所以，暂时先放下传统的 Agent 和 LoRa，放下执念，清空大脑，腾出空间，迎接 Deepseek 的颠覆性创新。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67a2fbb9d74435e4a32e74d4</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67a2fbb9d74435e4a32e74d4</guid>
+      <pubDate>Wed, 05 Feb 2025 06:07:39 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/679d8c5ded7799e793bb7936/luHw-1_oYFf5d7tUY86ptE76xRWG.m4a" length="19807737" type="audio/mp4" />
+      <itunes:duration>1224</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FnumEyTIUe11ueh_fANIZxTWhIrM.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <language>zh-CN</language>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Leisure">
+      <itunes:category text="Hobbies" />
+    </itunes:category>
+  </channel>
+</rss>

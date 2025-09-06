@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>狗不扯蛋</title>
+    <description>你好呀，欢迎来听“狗不扯蛋”，我有一个公众号叫“梁狗蛋”，白天的我负责吐槽a股，二半夜的我喜欢讲一些我觉得可能足够有趣的东西，遂录下来做播客了。
+
+不会画封面，就用PPT了
+反正你们也能看懂</description>
+    <link>https://www.xiaoyuzhoufm.com/podcast/678a1c92706fdcdc320bd92d</link>
+    <image>
+      <url>https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png</url>
+      <title>狗不扯蛋</title>
+      <link>https://www.xiaoyuzhoufm.com/podcast/678a1c92706fdcdc320bd92d</link>
+    </image>
+    <generator>dayuzhou</generator>
+    <lastBuildDate>Sat, 06 Sep 2025 08:45:05 GMT</lastBuildDate>
+    <atom:link href="https://chrisxxxx0.github.io/dayuzhou/feeds/678a1c92706fdcdc320bd92d.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Aug 2025 15:27:48 GMT</pubDate>
+    <ttl>3600</ttl>
+    <itunes:author>梁狗蛋</itunes:author>
+    <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+    <itunes:subtitle>你好呀，欢迎来听“狗不扯蛋”，我有一个公众号叫“梁狗蛋”，白天的我负责吐槽a股，二半夜的我喜欢讲一些我觉得可能足够有趣的东西，遂录下来做播客了。
+
+不会画封面，就用PPT了
+反正你们也能看懂</itunes:subtitle>
+    <itunes:summary>你好呀，欢迎来听“狗不扯蛋”，我有一个公众号叫“梁狗蛋”，白天的我负责吐槽a股，二半夜的我喜欢讲一些我觉得可能足够有趣的东西，遂录下来做播客了。
+
+不会画封面，就用PPT了
+反正你们也能看懂</itunes:summary>
+    <item>
+      <title>本期开始，不聊投资了，先聊下我花了一百万买了啥教训</title>
+      <description>本期开始摆烂（并不
+本期开始，狗不扯蛋就正式成为梁狗蛋创业记录了（虽然已经创业个把年了）
+现在关注的都是我的精神股东了，谢谢大家。
+今天讲讲
+1）为啥不聊投资了；
+2）我到底做了些什么我自认为牛逼的事，但是被啪啪打脸两年多，花了一百万买到的经验教训。
+PS.录完了之后发现，居然忘了开录音设备的数据链接功能，全程是电脑的音箱录的音……</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/688cdbd5edf3fa32d5a98709</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/688cdbd5edf3fa32d5a98709</guid>
+      <pubDate>Fri, 01 Aug 2025 15:27:48 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lgZEZSOHcvfTthAZ6gqFOOXM5A1H.m4a" length="55345974" type="audio/mp4" />
+      <itunes:duration>3401</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>（并没有）手把手教你，怎么用现金流贴现模型，来算一家新消费公司的未来</title>
+      <description>欢迎来到狗不扯蛋，我是梁狗蛋。
+这期节目是这么来的，我正好跟一个外资行的消费分析师，夏洛特老师，聊了聊新消费，对方说要细聊，我说那干脆咱来录一期吧，我正好想聊聊DCF（现金流贴现模型），我们干脆结合一下DCF和新消费，学术定义来看，现金流贴现模型指的是这个：
+资产现值（PV）= Σ[未来第 t 期的现金流（CFₜ） / (1 + 贴现率（r）)ᵗ]
+但是业务务实中，我们行业基本没什么人老老实实用这个模型做定价或者做研究的。只有曾经还在机构的我，和上一期跟我一起直播的贾腾，只不过我们俩用了另一个思路——不要给资产做定价，而是利用市场的定价，算出对应的隐含回报率。
+本期节目中，我和夏洛特老师会聊到：
+DCF模型中，外资行分析师会怎么尝试给三个阶段进行预测，怎么规定贴现率？
+我的方法，应该怎么从务实的角度来衡量这些核心变量？
+Labubu的生命周期会怎样，现在是不是高点很重要吗？
+PE、PEG、PS等等估值方法又是什么时候能用上？
+为什么理解潮玩的生意模式，对给它做DCF来说，至关重要？
+为什么大部分的精力要放在，理解一个业务的生命周期上，以及理解一家公司为什么能够创造新业务上？
+BGM： Anno 1800 - Flickering lights
+风险提示：本期不推荐所提到的任何个股，只是投研思路的分享。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/6869067460f8f77d40fa38aa</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/6869067460f8f77d40fa38aa</guid>
+      <pubDate>Sat, 05 Jul 2025 11:11:12 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lt2e3ISu--5cpFZvJxTHDa8OCS3u.m4a" length="83111252" type="audio/mp4" />
+      <itunes:duration>5081</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>和一个学院派价值投资基金经理聊了聊浮动费率基金</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+本期来源于一次中证报的直播，我觉得有趣，就要来了音频做成了一起节目。
+但是录制效果不太好，如果你感兴趣，请耐着性子听一听好了。
+本期嘉宾：
+杨皖玉|中国证券报记者，也是本场主持人。
+贾腾|天弘基金的基金经理，也是我之前一度唯一持有的主动权益基金经理。
+梁狗蛋|我。
+多说一嘴，我当初唯一配置贾腾老师的原因是，他和我自己管钱的时候的思路和框架一模一样，我们都是对DCF的运用思路都一样，而这个思路，我现在聊了快200人，都还没见到第二位。每次跟贾腾老师沟通，有种自己跟自己对话的既视感。再多说一嘴，我那个时候唯一持有的指数基金是恒生科技。
+05:01 给这一批浮动费率基金做个基本的介绍
+基金的管理费是按照1.2%一年收的，平摊到每天，从你的净值里扣钱。如果你持有超过一年了，那么你的持有期内的每一天都会按照以下思路来算：
+假如按照年化，跑输了基准3个百分点，那你在赎回的时候，会收到一笔来自基金公司的补偿，大约是之前收的管理费的一半，也就是约等于0.6%每年的管理费。假如按照年化，跑赢了基准6个百分点并且是正收益，那你在赎回的时候，基金公司会多扣你一笔钱，大约是之前收的管理费的1/4，也就是约等于1.5%每年的管理费。
+12:11 所以主动型基金经理会因此躺平吗？
+我不觉得，反而一个基金经理找到自己真正的商业模式才是最好的
+（我有个参考阅读，请搜索公众号【拒绝被裹挟星人】的：你对《高质量发展》也有误解吗？）
+17:43 DCF模型（现金流折现模型）到底应该怎么用？
+这一段是整个节目的核心，DCF不是简简单单算一个n年盈利预测和长期增长假设就够了。商业模式、竞争优势、企业家精神、公司治理缺一不可。
+基于这些，你才能算出来隐含回报率，而不是根据你拍脑袋想来的贴现率算个合意目标价。
+33:31 为什么价值投资者往往不把太多精力放到景气赛道上？
+价值投资者的绝活是发现一个周期里不变的东西；景气投资者的绝活是发现一个周期里变化的东西。
+45:33 一点忠告：不要轻易预测，不要轻易交易
+BGM： Anno 1800 - Flickering lights
+风险提示：市场有风险，投资需谨慎。投资者在购买基金前应仔细阅《基金合同》《招募说明书》等文件，了解基金的风险收益特征，并根据自身的投资目的、投资期限、投资经验、资产状况等判断基金是否和投资人的风险承受能力相适应。观点仅供参考，不构成投资意见。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/685244794abe6e29cbb852a1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/685244794abe6e29cbb852a1</guid>
+      <pubDate>Wed, 18 Jun 2025 04:47:21 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lq_sdP91wJC3UPoiXcKQpNPqVNCb.m4a" length="50513113" type="audio/mp4" />
+      <itunes:duration>3079</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/FrLT-AIBQJQA4cYN14v1Gsr4P3N1.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>创新药是什么？我需要理解它怎么投资吗？</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+本期我们打着创新药的名号，聊了芯片，聊了机器人，甚至聊了袜子怎么洗……
+如果你关心资本市场，大约听过创新药这么个东西，甚至也知道大家最近在吵创新药的BD。那什么叫做BD？为什么现在炒BD？创新药现在的阶段有什么历史渊源？上一轮医药牛市是怎么没了的？这一轮就不骗人吗？
+同样，我们也会讲为什么投资医药不要听老龄化这样的不可证伪的叙事，而是要抓住真实的在变化的逻辑。本期科普为主。
+我邀请了聊天搭子：
+陆家嘴谭松韵老师，供职于某头部公募基金（非投研岗）
+02:30 创新药是什么？
+从新药研发，到临床试验，到上市获批，对于投资都有不同的意义；
+从23年开始，科学家们总有一些事情做对了，而且能够开拓美国市场了；
+医药在投资里是个大项，但是在日常却很少听到，因为门槛太高了。
+15:56 医药的四年熊市咋来的
+“老龄化”是你踩坑的最大叙事，医药好又不是老人变多了；
+上一轮的CXO牛市是疫情期间供应链的恩赐，牛马的拼命和政策的实惠共同作用使然；
+CRO，SMO，CDMO都是什么；
+26:44 为什么半导体在明修栈道的时候，创新药能暗度陈仓
+半导体和创新药一样，都是人才驱动的行业，半导体和创新药又不一样，产业链的难度不是一个层级；
+顺嘴提一下，英特尔、台积电、ASML、EDA都是咋回事；
+32:38 热点怎么可能买谁都一样呢？机器人你就别碰了
+我们先讲讲，一个正确的可参与的科技突破的投资框架是什么；
+为什么机器人方方面面都不符合可投资的科技突破；
+为什么不要听“相信马斯克”这句话；
+机器人到底炒的都是啥。
+45:32 给创新药投资做一个难度坐标：新消费&lt;创新药&lt;黄金&lt;机器人
+创新药的投资难点，有时候也五花八门的；
+如果这个赛道的产业一线卷起来了，大约就是你离场的时候了。
+本期内容请配合公众号【拒绝被裹挟星人】《如何给你的客户解释什么是创新药投资》食用
+另外，节目中说到，如果要咨询我挖掘到的基金经理，请到【拒绝被裹挟星人】或者【梁狗蛋】公众号留言询问。
+BGM： Anno 1800 - Flickering lights</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/684f14ac4abe6e29cb4781ab</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/684f14ac4abe6e29cb4781ab</guid>
+      <pubDate>Sun, 15 Jun 2025 18:53:40 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/loJFe0lvZFVSjFwmEgeyFD2i8TDm.m4a" length="50988697" type="audio/mp4" />
+      <itunes:duration>3117</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>新消费投资，比你想象的难</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+今天我们来讲，新消费投资，这是一个我又爱又恨的话题。早年间我还在管权益资产的时候，它就是我重点配置的方向。而那是上一轮消费的顶峰。这次我们就再重（鞭）温（尸）一边好了。
+01:12 那首先，什么叫老消费？
+* 人、货、场的增长，代表了旧时代的发展中的中国；
+* 结构化的便签，给大家看到了一点“消费升级”的影子；
+* 奢侈品老钱路，是大家都幻想要走的路。
+12:11 说来，什么叫新消费呢？
+* 可能是新品类的爆发，也可能是老品类开新花，总之当期业绩好，但是以前没起来，我们需要理解它好在哪里；
+* 爆发的过程并不是单纯通过营销手段实现的，往往存在大量的用户自传播；
+* 自传播往往存在一些时代烙印和特定群体的社交认同，但我们也往往会线性外推，往往略带傲慢地觉得是烙印和认同决定了销量，而非商品本身；
+* 但话又说回来，研究员们还会搞一些情绪消费、00后消费这样的叙事，来骗你上车。
+18:31 插一嘴，叙事为什么会骗人
+因为它不可证伪，比如当年医药涨的时候，大家说老龄化，老龄化还继续着呢，医药就快跌没了，那不是白老龄化了？
+24:30 说来，为什么新消费涨挺好，你买了就不赚钱了？
+* 先有了爆款，我们才有机会理解爆款，而非我们先能预测爆款，才有了爆款，所以新消费投资一定是右侧，是要去追的；
+* 但同时，我们对爆款的估值，往往也隐含了时代的趋势，隐含了大家的线性外推，隐含了大家的傲慢，所以风险是很大的，是不能轻易追的。
+30:47 为什么有的基金经理能抓住潜在的机会，有的不能呢？
+* 有基金经理只看公司做事是不是靠谱。新消费？意外之喜；
+* 有基金经理只看公司有没有在做对的事情，创始人有能力引领消费潮流；
+* 有基金经理觉得，我们还是得照搬海外的发展公式。
+如果你喜欢看文字版，请在公众号搜索“拒绝被裹挟星人”
+文章标题为《如何给你的客户讲什么叫新消费投资》
+BGM： Anno 1800 - Flickering lights</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/682f2f15fcbc2e206b40d2c3</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/682f2f15fcbc2e206b40d2c3</guid>
+      <pubDate>Thu, 22 May 2025 14:12:50 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lqGA7o-AviyfcxucwEfxDj_1pCSe.m4a" length="48040793" type="audio/mp4" />
+      <itunes:duration>2927</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>狗扯淡：为什么我不建议你做黄金投资</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+今天二半夜，水一期黄金。我的立场是黄金的坚定空头（其实并不坚定……
+00:45 黄金是这个世界上最难研究清楚的资产，没有逻辑，只有叙事
+黄金没有供需的概念，只有宏大叙事的概念，而天下所有的大宗商品基本都是由供需决定的，在宏大叙事之下，你确定自己是上车最早跑路最好的那个吗？
+09:14 叙事第一坑：美元必解体，金本位王者归来
+咱就是说，有没有可能，金本位解体，本来就是因为金本位根本不适合工业时代呢？然后你还傻呵呵地那这个逻辑喊金本位回归吗？
+21:52 叙事第二坑：大炮一响，黄金值万钱
+过去20年最成功的交易是，大炮响完之后，就高位做空黄金……乱纪元这种事情，人算不如天算啊
+26:10 叙事第三坑：大通胀时代
+这可能是最接近基本面的叙事了，但同样，你盘过主要原材料和工业品的供需吗？你就敢预言大通胀？
+34:51 话又说回来，为什么我建议你一定得有一点黄金
+原因一：不方便说，你自己去听吧，听完了也别跟别人讲。
+原因二：它和红利类的资产一样，你一定要拿一辈子的话，可以不需要做太多的研究，基本上可以视为底仓。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/680a6cb78aed253fa35917d1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/680a6cb78aed253fa35917d1</guid>
+      <pubDate>Thu, 24 Apr 2025 17:15:54 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lpA9kI1dPWv3C_Gnlwqj2_jYi5w3.m4a" length="40952569" type="audio/mp4" />
+      <itunes:duration>2516</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>咱以关税战为例，来看看为什么分析师讲东西你觉得不靠谱</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+作为一个曾经的机构投资从业汪，我们遇到的最大的困难之一，可能就是“正好不如我们所预期的”（虽然大家都喜欢讲，“正如我们所预期的”）。我们行业的人，曾经无数次被外界质疑过，作为分析师，为什么总会给错误的判断。我们要是天天听这些人的判断，家底都会赔进去等等。
+本期是一个框架性内容，想带着你从一个我们最近看到的巨大新闻事件——关税战，来剖析我们分析问题的时候，所谓的“不靠谱”到底是怎么来的。
+以及，抽丝剥茧——为什么要清楚什么是核心假设，什么是核心变量，什么是核心指标？
+另外，本期内容录制时间是特朗普提出对等关税，且我们进行了反制的那个周末，后续发生的事情，从过程来看比我想象的更狗血，但是我们提出的思维框架依然有效。
+00:00 先给一个观点，我个人怎么在那个吓人的周末判断对等关税的走向的？
+人民币资产不大受影响的逻辑是什么；出海企业可能受到的影响会来自哪里；美元为什么会走下神坛？
+09:35 什么是核心假设？为什么静态地预估，会出现根本性的偏差？
+“我觉得人民币资产拥有避险属性，但是我必须卖掉人民币资产”是为什么？
+“别看我是个造塑料件的，没了我，你的高精尖产品没一个能出厂的，你就算加到1000%的关税，跟我又有什么关系呢？”
+美元是我们想象的那样走下神坛吗？
+22:49 什么是核心变量？为什么有人看不清方向？
+用一个案例来说明，我当年是怎么无视掉核心变量，从而完美地错过那家公司的？
+再用一个案例来说明，我所探索的生意，为什么别人看来前途无量，而实际上困难重重呢？
+33:59 什么是核心指标？为什么有人被噪音牵着鼻子走？
+什么指标能验证一家供应商是不可替代的？
+你猜猜看，是美国人上街和贝森特提出辞职，谁可能是转向的核心指标？</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67fd3b4d02b3afa0dd709e60</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67fd3b4d02b3afa0dd709e60</guid>
+      <pubDate>Mon, 14 Apr 2025 17:59:13 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lmk4qxg1qphZmUZdEYp5lWwp0g4y.m4a" length="46003246" type="audio/mp4" />
+      <itunes:duration>2785</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>狗扯淡：关税战之外，还有哪些线索可以穿起来</title>
+      <description>好这又是一次闲扯淡，上次我跟大家说的关于贸易战观点怎么去拆解的内容已经交给专业剪辑师啦，没问题的话下周就能发布。
+你好哇，欢迎来到狗扯淡，我是梁狗蛋。
+你可能关注到了我们的关税反制，甚至关注到了我们的关税反制安排在了我们的晚上，也是美股的盘前。
+你有没有关注到外国人即买即退的退税安排？
+你有没有关注到《关于中美经贸关系若干问题的中方立场》白皮书？
+你有没有关注到《中央周边工作会议》？
+好，这些代表了什么你可能没关注到的东西？
+我们来做一个小小的思维实验。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67f69f64623bc78c399b2795</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67f69f64623bc78c399b2795</guid>
+      <pubDate>Wed, 09 Apr 2025 17:47:37 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lmKecEKsYYu1XlxTezOGyWvETHYa.m4a" length="16213185" type="audio/mp4" />
+      <itunes:duration>995</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>狗扯淡：长辈的“不理解”，可能不完全来自于他们的痛苦</title>
+      <description>下一期稿子写了一半，和别人聊了聊父母，忽然想到点啥，遂水一期。
+核心观点：
+父母的“我这么做都是为了你好”，部分来源于，父母形成世界观的年代，投入皆有产出；
+我们反感“我这么做都是为了你好”，部分来源于，我们形成世界观的年代，投入产出比是个玄学问题。
+父母的“不结婚这辈子就完了”，部分来源于，父母形成世界观的年代，如果不按照模板走向成功，就会被唾弃；
+我们的“一个人生活也没什么大不了的”，部分来源于，我们形成世界观的年代，基础设施已然完备，一个人生活是保底。
+那我们的下一代会不会遇到类似的问题呢？
+当然也会，我也做了点展望。
+鸽了许久，开始干活了。</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67f0d072f9578163d61be0d1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67f0d072f9578163d61be0d1</guid>
+      <pubDate>Sat, 05 Apr 2025 06:53:27 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/llofDmJBHKwmr5cTDGFX47yx3myG.m4a" length="20811948" type="audio/mp4" />
+      <itunes:duration>1277</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>下一个好莱坞？不好意思，我们能走得更远</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+这是一档分享有趣思考方法的频道。
+本期，我依旧想要拉着你从生意的角度入手来想问题。
+我们不必陷入好莱坞的叙事逻辑，我们有自己的叙事逻辑
+内容亮点：
+02:51 从“工业光魔”看好莱坞如何建立生态
+为什么一部科幻电影要依赖一套前无古人的特效团队？
+如果没有《星球大战》，你的生活会少多少精彩？
+11:54 从《哪吒2》和《黑神话》窥伺中国的电影动画游戏供应链
+为什么娱乐工业和高端制造业如出一辙？
+一个去中心化的供应链如何能不断给我们惊喜？
+23:22 好莱坞有X败，我们有X胜
+为什么好莱坞的模式会以群魔乱舞走向下坡？
+为什么我们没那么担心屠龙少年变恶龙？
+BGM：Anno1800 - Flickering light</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67aefa4d05a90dfd0d72ba43</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67aefa4d05a90dfd0d72ba43</guid>
+      <pubDate>Fri, 14 Feb 2025 08:14:58 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/ljmmkCorXVKRpcSfnODwpUOwy77h.m4a" length="29142758" type="audio/mp4" />
+      <itunes:duration>1731</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>公募基金做错了什么？就不能彻底关掉吗？</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+这是一档分享有趣思考方法的频道。
+本期，我依旧想要拉着你从生意的角度入手来想问题。
+内容亮点：
+04:10 黄牛为什么屡禁不止？
+* 是实名制太难吗？
+* 还是有坏人做PY交易？
+11:43 我们的反诈宣传做对了吗？
+* 什么叫提升电诈的获客成本？
+* 什么叫挤压跨境犯罪的生存空间？
+20:32 公募基金为什么要骗大家？
+* 为什么我们所有人都是KPI的受害者？
+* 为什么真正有用的信息没人告诉大家？
+BGM： Anno 1800 - Flickering lights</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67975871d74435e4a30e45e1</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67975871d74435e4a30e45e1</guid>
+      <pubDate>Mon, 27 Jan 2025 10:06:05 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lj2O3bdXi-pmBL-tliawF6fNA3eC.m4a" length="38376211" type="audio/mp4" />
+      <itunes:duration>2352</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>为什么经济学家脑回路不正常</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+这是一档分享有趣思考方法的频道。
+本期开始，我们就重点介绍我们的思考方法了，这估计将是这个频道贯穿始终的思考方法：我想要拉着你从生意的角度入手来想问题。
+借用《潜伏》里谢若林的名言，“嘴上都是主义，心里全是生意”，我也在想，能不能从生意的角度，拆解一下我们生活中遇到的各种现象。
+希望你能收获不被环境裹挟的自信和力量。
+那么，接着上一期话题，券商的首席经济学家这个人群，他们做的是什么生意？为什么经济学家脑回路不太正常？
+内容亮点
+09:58 看不起李大霄的“婴儿底”吗？他才是高段位选手
+* 高抛低吸亏大钱？营销良心才是经济学家的核心生意逻辑……
+* 高段位选手懂得创造有传播能力的符号……
+14:35 为什么有的人从业生涯只有一种观点？
+* 被讨论的前提是，成为靶子……
+* 不然为什么要数果所的朋友圈数量呢？
+18:45 你也想卖课？想清楚你到底要给谁卖课
+* 猜猜看，给C端卖课的生意逻辑，和电诈的生意逻辑相比，区别在哪里？
+* 打动老板需要学会宏大叙事？
+25:35 任泽平老师的传奇人生
+* 什么叫天胡开局啊（战术后仰
+* 一千多万，都买不来真爱吗？
+* 你都不够惨，还敢直播带货？
+46:45 专家们为什么乱给建议呢？
+* 为什么会有“专家”建议“女性不要接受教育”来提高生育率？
+* 你建议得很好，下次能不能别建议了？“不能，这是我吃饭的家伙”……
+BGM： Anno 1800 - Flickering lights</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/67923f57d74435e4a35a3614</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/67923f57d74435e4a35a3614</guid>
+      <pubDate>Thu, 23 Jan 2025 13:42:23 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lj-qA92_IrAOZhNRwd9nJ4RQju-b.m4a" length="50825529" type="audio/mp4" />
+      <itunes:duration>3115</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>每个人都会被一个经济学家收割</title>
+      <description>欢迎来到狗不扯Damn，我是梁狗蛋。
+这是一档分享有趣思考方法的频道。
+写了三年多的公众号，终于鼓起勇气，打算整点不一样的东西。
+既然搞清楚了录音设备怎么调试，那我就试着随口聊一个话题好了。
+频道的封面还没想好怎么弄，用PPT随手做的。
+开篇话题我就从我老本行开始吧，总量研究。
+村头的大黄要是会说话，估计都能给你分析一波宏观大势。
+这一期，我来给你介绍个防收割利器，一套思考方式。
+希望你能收获不被环境所裹挟的自信和力量。
+06:24 我们是怎么被一个经济学家收割的？
+16:24 我们又是怎么被“中国要经历日本失落的30年”论收割的？
+21:35 当你有一个论点的时候，学会证伪它，你就会离真相更近。
+23:04 经济学家们乱说话，是良心的扭曲，还是道德的沦丧？
+28:16 你甚至能从PMI中看到吃瓜群众的力量？
+31:37 为什么有的数据你觉得假？可能底层逻辑就有问题。
+BGM： Anno 1800 - Flickering lights</description>
+      <link>https://www.xiaoyuzhoufm.com/episode/678bc7e9fd38652366f95503</link>
+      <guid isPermaLink="false">https://www.xiaoyuzhoufm.com/episode/678bc7e9fd38652366f95503</guid>
+      <pubDate>Sat, 18 Jan 2025 23:30:00 GMT</pubDate>
+      <enclosure url="https://media.xyzcdn.net/678a1c92706fdcdc320bd92d/lqoYiMYeyrBAGT5BtTdAs70YBuTn.m4a" length="41320790" type="audio/mp4" />
+      <itunes:duration>2524</itunes:duration>
+      <itunes:image href="https://image.xyzcdn.net/Fhk9Ld-ZF7Jwlh6Jbb0fpleF2ND_.png" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <language>zh-CN</language>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Leisure">
+      <itunes:category text="Hobbies" />
+    </itunes:category>
+  </channel>
+</rss>
