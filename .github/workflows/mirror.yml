@@ -1,13 +1,48 @@
-      - name: Generate mirrored feed (Apple-ready)
+name: dayuzhou (hourly)
+
+on:
+  schedule:
+    - cron: "0 * * * *" 
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Prepare docs folder (no Jekyll)
+        run: |
+          mkdir -p docs/feeds
+          : > docs/.nojekyll
+          if [ ! -f docs/index.html ]; then
+            cat > docs/index.html <<'HTML'
+          <!doctype html><meta charset="utf-8"><title>Podcast Mirror</title>
+          <p>Feeds are under <code>/feeds/</code>.</p>
+          HTML
+          fi
+
+      - name: Generate all mirrored feeds from JSON
         env:
-          ORIGIN_FEED_URL: ${{ secrets.ORIGIN_FEED_URL }}
+          ORIGIN_FEEDS_JSON: ${{ secrets.ORIGIN_FEEDS_JSON }}
           PUBLIC_SITE: https://chrisxxxx0.github.io/dayuzhou/
           OUT_DIR: docs/feeds
         run: |
           python -V
-          mkdir -p docs/feeds
-          : > docs/.nojekyll
-          if [ ! -f docs/index.html ]; then
-            echo '<!doctype html><meta charset="utf-8"><title>dayuzhou</title><p>Feeds in ./feeds/</p>' > docs/index.html
-          fi
-          python scripts/mirror_plus.py
+          python scripts/mirror_from_json.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "update feeds (JSON) [skip ci]" || echo "No changes"
+          git push
