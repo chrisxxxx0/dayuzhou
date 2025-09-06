@@ -35,7 +35,6 @@ jobs:
           ORIGIN_FEEDS_JSON: ${{ secrets.ORIGIN_FEEDS_JSON }}
           PUBLIC_SITE: https://chrisxxxx0.github.io/dayuzhou/
           OUT_DIR: docs/feeds
-          OWNER_EMAIL: ${{ secrets.OWNER_EMAIL }}
         run: |
           python -V
           python scripts/mirror_from_json.py
